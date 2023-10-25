@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=B4B6F9&height=200&section=header&text=🎶%20🎶&fontSize=40&fontColor=24252a&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=B4B6F9&height=200&section=header&text=🎶%20&fontSize=40&fontColor=24252a&fontAlignY=40)
 <!--
 ### Hi there 👋
 -->
