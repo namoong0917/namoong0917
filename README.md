@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 ## 📙 Study Log
-[![CV](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/study-Log-a9f88db6a8f24f54aeaa01609795ac67) ![Blog](https://img.shields.io/badge/Blog-f75748?style=for-the-badge&logo=Blog&logoColor=fff) 
+[![CV](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/study-Log-a9f88db6a8f24f54aeaa01609795ac67) [![Blog](https://img.shields.io/badge/Blog-f75748?style=for-the-badge&logo=Blog&logoColor=fff)](https://south-dev.tistory.com) 
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> Tech Stack
