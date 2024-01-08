@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![react](https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러})
--->
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=B4B6F9&height=200&section=header&text=🎶%20&fontSize=40&fontColor=24252a&fontAlignY=40)
+-->
 <!--
 ### Hi there 👋
 -->
